@@ -1,0 +1,8 @@
+{
+    "Lua.diagnostics.globals": [
+        "parseObject",
+        "extractSongPath",
+        "processJSON"
+    ],
+    
+}
